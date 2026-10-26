@@ -1,0 +1,10 @@
+{
+  "name": "Travel Planner",
+  "repo": "travel-planner",
+  "purpose": "Plan trips, keep a private ideas inbox and a lifetime log of places visited; partner to the Travel Companion, sharing its Supabase project.",
+  "family": "Life",
+  "stage": "Planning",
+  "live": null,
+  "tags": ["travel"],
+  "updated": "2026-10-26"
+}
